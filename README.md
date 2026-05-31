@@ -35,3 +35,4 @@
     
 
 完成部署后，每次启动系统，脚本都会自动执行，并将包含时间戳、外网IP和内网IP的日志追加到 ~/.startup_log.txt 文件中。
+Grnerate By Qwen
